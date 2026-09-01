@@ -29,6 +29,11 @@
 
 🚧 开发中,预计 **2026 年 9 月下旬** 上架 Edge / Chrome 商店。
 
+## 文档
+
+- [使用说明](guide.md)
+- [隐私政策](privacy.md)
+
 ## 支持与购买
 
 - 爱发电主页(Pro 激活码在此购买):**https://ifdian.net/a/dingjiabao**
