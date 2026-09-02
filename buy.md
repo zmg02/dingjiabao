@@ -38,4 +38,4 @@
 
 ---
 
-[← 返回首页](./) · [使用说明](./guide) · [隐私政策](./privacy)
+[← 返回首页](README.md) · [使用说明](guide.md) · [隐私政策](privacy.md)
