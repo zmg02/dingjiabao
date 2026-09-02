@@ -25,9 +25,13 @@
 | 设备数 | 不限 | 不限 |
 | 价格 | 永久免费 | ¥49(首发 ¥29,限前 50 名) |
 
+## 安装
+
+**[▶ Edge 商店安装(推荐)](https://microsoftedge.microsoft.com/addons/detail/ihnmgcceeglbajigfmfhaojcdmaolcjn)** · Chrome 商店审核中
+
 ## 状态
 
-🚧 开发中,预计 **2026 年 9 月下旬** 上架 Edge / Chrome 商店。
+✅ 已上架 Microsoft Edge 商店(2026-09-02);Chrome 版审核中。
 
 ## 文档
 
