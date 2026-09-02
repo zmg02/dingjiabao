@@ -40,7 +40,8 @@
 
 ## 支持与购买
 
-- 爱发电主页(Pro 激活码在此购买):**https://ifdian.net/a/dingjiabao**
+- **[购买 Pro 激活码 →](buy.md)**(¥49 买断,首发 ¥29,四步指引与常见问题)
+- 爱发电主页:**https://ifdian.net/a/dingjiabao**
 - 反馈与需求:提 [Issue](../../issues),或爱发电私信
 
 ## 作者
