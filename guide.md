@@ -8,7 +8,7 @@
 |---|---|
 | Edge 商店(推荐,国内可直接访问) | [点此安装](https://microsoftedge.microsoft.com/addons/detail/ihnmgcceeglbajigfmfhaojcdmaolcjn) |
 | Chrome 商店 | 审核中,上架后更新 |
-| 手动安装(zip) | 下载 zip → 解压到一个**不会删除的文件夹** → 浏览器打开 `edge://extensions`(Chrome 为 `chrome://extensions`)→ 右上角打开「开发人员模式」→ 「加载解压缩的扩展」→ 选择解压后的文件夹 |
+| 手动安装(zip) | [下载 zip(v1.0.0)](dl/dingjiabao-1.0.0.zip) → 解压到一个**不会删除的文件夹** → 浏览器打开 `edge://extensions`(Chrome 为 `chrome://extensions`)→ 右上角打开「开发人员模式」→ 「加载解压缩的扩展」→ 选择解压后的文件夹 |
 
 安装后建议把盯价宝图标**固定到工具栏**:点浏览器右上角的「扩展」拼图按钮 → 盯价宝旁边的「显示在工具栏」。
 
