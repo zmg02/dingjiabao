@@ -12,6 +12,10 @@
 - 💻 本地运行:数据只存在你的浏览器,不上传、免注册
 - 🍃 不拖慢浏览:不在任何页面常驻注入脚本,检查时才后台开一个标签页,查完即关
 
+## 一½、安装
+
+[Edge 商店安装](https://microsoftedge.microsoft.com/addons/detail/hkmolIllbmjeamcaafjnbicnjoeldbhd)(国内可直接访问)。Chrome 版审核中,上架后更新。
+
 ## 二、添加跟踪(3 步)
 
 1. 点工具栏盯榜宝图标 → 「打开排名监控」→ 「＋ 添加关键词」

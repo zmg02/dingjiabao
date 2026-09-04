@@ -40,7 +40,7 @@
 
 ## 同门产品:盯榜宝(亚马逊关键词排名监控)
 
-输入关键词 + ASIN,每天自动查亚马逊搜索排名,自然位/含广告位分开报告,变化桌面提醒。→ [使用说明](guide-rankwatch.md) · [购买 Pro](buy.md)
+输入关键词 + ASIN,每天自动查亚马逊搜索排名,自然位/含广告位分开报告,变化桌面提醒。→ [Edge 商店安装](https://microsoftedge.microsoft.com/addons/detail/hkmolIllbmjeamcaafjnbicnjoeldbhd) · [使用说明](guide-rankwatch.md) · [购买 Pro](buy.md)
 
 ## 支持与购买
 
